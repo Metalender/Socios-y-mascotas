@@ -1,0 +1,68 @@
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\App.Systema.deps.json
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\App.Systema.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\App.Systema.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Entidades.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Entidades.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CopyComplete
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\refint\App.Systema.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\ref\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\refint\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\App.Systema.deps.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\App.Systema.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\bin\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\App.Systema\obj\Debug\net6.0\ref\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\bin\Debug\net6.0\App.Systema.deps.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\bin\Debug\net6.0\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\bin\Debug\net6.0\App.Systema.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\bin\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\bin\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\refint\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\App.Systema.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\App.Systema\obj\Debug\net6.0\ref\App.Systema.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\bin\Debug\net6.0\App.Systema.deps.json
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\bin\Debug\net6.0\App.Systema.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\bin\Debug\net6.0\App.Systema.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\bin\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\bin\Debug\net6.0\Entidades.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\bin\Debug\net6.0\Entidades.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\bin\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.csproj.CopyComplete
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\refint\App.Systema.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\App.Systema.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\App.Systema\obj\Debug\net6.0\ref\App.Systema.dll

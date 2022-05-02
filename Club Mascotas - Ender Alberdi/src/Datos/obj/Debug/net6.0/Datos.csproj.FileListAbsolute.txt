@@ -1,0 +1,60 @@
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Entidades.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\ref\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\refint\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Datos.deps.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Datos\obj\Debug\net6.0\ref\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\bin\Debug\net6.0\Datos.deps.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\bin\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\bin\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\refint\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\bin\Debug\net6.0\Entidades.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Datos\obj\Debug\net6.0\ref\Datos.dll

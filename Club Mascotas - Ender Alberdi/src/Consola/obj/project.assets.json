@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "App.Systema/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Datos": "1.0.0",
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App.Systema.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Systema.dll": {}
+        }
+      },
+      "Datos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datos.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Systema/1.0.0": {
+      "type": "project",
+      "path": "../App.Systema/App.Systema.csproj",
+      "msbuildProject": "../App.Systema/App.Systema.csproj"
+    },
+    "Datos/1.0.0": {
+      "type": "project",
+      "path": "../Datos/Datos.csproj",
+      "msbuildProject": "../Datos/Datos.csproj"
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "App.Systema >= 1.0.0",
+      "Datos >= 1.0.0",
+      "Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\1daw3\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\Consola\\Consola.csproj",
+      "projectName": "Consola",
+      "projectPath": "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\1daw3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\Consola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\1daw3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\App.Systema\\App.Systema.csproj": {
+              "projectPath": "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\App.Systema\\App.Systema.csproj"
+            },
+            "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\Datos\\Datos.csproj"
+            },
+            "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\1daw3\\Desktop\\Club Mascotas - Ender Alberdi\\src\\Entidades\\Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.exe
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.deps.json
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\App.Systema.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Entidades.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\App.Systema.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Entidades.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\refint\Consola.dll
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.pdb
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+C:\Users\1daw3\Desktop\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\ref\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\refint\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.exe
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.deps.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Consola.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\App.Systema.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\mascotas\src\Consola\obj\Debug\net6.0\ref\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Consola.exe
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Consola.deps.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Consola.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\App.Systema.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Datos.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\App.Systema.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Datos.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\refint\Consola.dll
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.pdb
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\programacion\entornos\ClubDeMascotas-Gonzalo\src\Consola\obj\Debug\net6.0\ref\Consola.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Consola.exe
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Consola.deps.json
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Consola.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Consola.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\App.Systema.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Datos.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Entidades.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\App.Systema.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Datos.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\bin\Debug\net6.0\Entidades.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.csproj.CopyComplete
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\refint\Consola.dll
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.pdb
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+C:\Users\1daw3\Desktop\Club Mascotas - Ender Alberdi\src\Consola\obj\Debug\net6.0\ref\Consola.dll
